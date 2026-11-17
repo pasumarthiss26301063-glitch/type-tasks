@@ -1,0 +1,12 @@
+{
+  "name": "typetasks",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TypeTasks Part 1 - TypeScript typed task model",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
